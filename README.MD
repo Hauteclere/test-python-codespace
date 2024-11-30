@@ -6,7 +6,7 @@ This repository contains a pre-configured codespace with Python 3.11, a lightwei
 
 Click the badge below to create a codespace and start coding. :rocket:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/SheCodesAus/test-python-codespace)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Hauteclere/test-python-codespace)
 
 ## Connecting to the desktop environment
 
